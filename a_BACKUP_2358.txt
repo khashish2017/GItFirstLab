@@ -1,6 +1,0 @@
-Welcome to Master
-<<<<<<< HEAD
-My Feature A changes here
-=======
-Changes for Feature B
->>>>>>> FeatureB
